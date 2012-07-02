@@ -6,14 +6,12 @@ Descrizione
 Nel processo di  controllo agibilità degli edifici, questa applicazione supporta il cittadino nella richiesta di verifica dei danni alla propria abitazione.
 
 ###AMBIENTE DI SVILUPPO
------------------------
 
 + Progetto Visual Studio, C#, ASP.NET, NHibernate
 + jQueryMobile
 + Database SQL Server Express, in preparazione versione per mySql
 
 ###CONFIGURAZIONE
------------------
 
 ####Web Server
 
